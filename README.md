@@ -1,5 +1,14 @@
-# typescript-redux-saga
-Boilerplate For React+TypeScript+reduc+Saga
+# React App
+ __React__
+ __Redux__
+ __Redux-Saga__
+ __TypeScript__
+ __ESLINT__
+ __Prettier__
+ __Husky__
+
+### For Readme styling
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # create initial template
 Reference URL: 
