@@ -1,10 +1,10 @@
 # React App
- __React__
- __Redux__
- __Redux-Saga__
- __TypeScript__
- __ESLINT__
- __Prettier__
+ __React__,
+ __Redux__,
+ __Redux-Saga__,
+ __TypeScript__,
+ __ESLINT__,
+ __Prettier__,
  __Husky__
 
 ### For Readme styling
