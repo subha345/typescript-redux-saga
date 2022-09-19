@@ -6,6 +6,9 @@
  __ESLINT__,
  __Prettier__,
  __Husky__
+ 
+### Git Repo
+https://github.com/subha345/typescript-redux-saga
 
 ### For Readme styling
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
